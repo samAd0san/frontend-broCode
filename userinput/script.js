@@ -17,8 +17,13 @@ document.getElementById("p1").textContent = `Name: ${name}`;
 document.getElementById("p2").textContent = `Age: ${age}`;
 document.getElementById("p3").textContent = `Enrolled: ${isStudent}`; */
 
-let username;
+/* WAY 1: Accept user input by windows prompt */
 
+// let uname = window.prompt('Enter the username');
+// console.log(uname);
+
+/* WAY 2: Accept user input by HTML text box */
+let username;
 document.getElementById("button1").onclick = function() {
    username = document.getElementById("input1").value;
    console.log(username);
