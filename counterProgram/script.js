@@ -19,3 +19,4 @@ reset.onclick = function() {
     count = 0;
     counterLayout.textContent = count;
 }
+

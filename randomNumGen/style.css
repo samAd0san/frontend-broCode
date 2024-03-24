@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#btn {
+    background-color: bisque;
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5%;
+}
+
+.lb {
+    font-size: 3em;
+    padding: 0px 50px; /* vertical horizontal*/
+}
