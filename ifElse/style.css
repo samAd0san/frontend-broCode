@@ -1,0 +1,18 @@
+body {
+    background-color: grey;
+    text-align: center;
+}
+
+#mylabel {
+    font-size: 2em;
+    font-style: initial;
+}
+
+#mybutton {
+    font-size: 1em;
+}
+
+#myinput {
+    font-size: 1em;
+}
+
